@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Mattia - aka [selfrules] 👋
 
-<!--
-**Selfrules/Selfrules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in [flowing] 
+- 🌱 I’m currently learning [learning]
+- 👯 I’m looking to collaborate with people who think out of the box
+- 🤔 I’m looking for help with [help]
+- 💬 Ask me about Agile Metodology
+- 📫 How to reach me: [selfrules]
+- ⚡ Fun fact: I love to play basketball 🏀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+<br />
+
+[flowing]: https://www.flowing.it/
+[selfrules]: https://www.selfrules.org/
+[learning]: Javascrpit
+[help]: Docker
