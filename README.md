@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working in [activeprospect] as Product Owner fot [leadsbridge]
-- 💬 Ask me about Agile Methodology
+- 💬 Ask me about Agile Methodology / Produc Managment / Consent-Based Marketing
 - 📫 How to reach me: [selfrules]
 - ⚡ Fun fact: I love to play basketball 🏀
 
