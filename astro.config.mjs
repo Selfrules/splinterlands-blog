@@ -7,7 +7,7 @@ import addClasses from 'rehype-add-classes'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://uses.craftz.dog/',
+  site: 'https://www.selfrules.org',
   integrations: [
     sitemap(),
     react(),
