@@ -1,5 +1,6 @@
 import './env.mjs'
 import { LiveExporter, toKebabCase } from '@inkdropapp/live-export'
+import { Headers } from 'headers-polyfill'
 
 const { INKDROP_USERNAME, INKDROP_PASSWORD, INKDROP_PORT, INKDROP_BOOKID } =
   process.env
@@ -12,6 +13,13 @@ const liveExport = new LiveExporter({
 
 const basePath = `./src/pages/posts`
 const publicPath = `./public/posts`
+
+const headers = new Headers({
+  Accept: '*/*',
+  'Content-Type': 'application/json',
+})
+
+headers.get('accept') // "*/*"
 
 await liveExport.start({
   live: true,
