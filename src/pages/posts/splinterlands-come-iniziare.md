@@ -7,7 +7,7 @@ createdAt: 1663138523826
 updatedAt: 1663138544071
 tags:
   - Splinterlands
-heroImage: /splinterlands/hero.jpg
+heroImage: /hero.jpg
 slug: splinterlands
 ---
 
