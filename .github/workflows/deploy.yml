@@ -3,7 +3,7 @@ name: Github Pages Astro CI
   push:
     branches:
       - main
-  workflow_dispatch: null
+  workflow_dispatch: 
 permissions:
   contents: read
   pages: write
