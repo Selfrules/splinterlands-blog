@@ -7,7 +7,7 @@ createdAt: 1663138523826
 updatedAt: 1663138544071
 tags:
   - Splinterlands
-heroImage: /hero.jpg
+heroImage: /posts/capitolo1_creare_account.jpg
 slug: splinterlands
 ---
 
