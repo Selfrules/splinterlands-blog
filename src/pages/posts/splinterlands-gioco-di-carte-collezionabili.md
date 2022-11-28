@@ -23,7 +23,6 @@ Le carte in Splinterlands sono **NFT** e possono essere *acquistate*, *vendute*,
 
 # Come iniziare a giocare?
 
-
 Per prima cosa vai sul sito ufficiale cliccando questo link [Splinterlands](https://splinterlands.com?ref=selfrules)
 
 Usando il mio referral e riceverai in *omaggio* un set completo di carte comuni per iniziare la tua avventura!  
