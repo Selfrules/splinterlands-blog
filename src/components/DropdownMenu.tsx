@@ -37,7 +37,7 @@ export default function DropdownMenu({ tags }: Props) {
               return (
                 <DropdownMenuItem
                   key={tag}
-                  href={`/categories/${tag.toLowerCase()}`}
+                  href={`./categories/${tag.toLowerCase()}`}
                 >
                   {tag}
                 </DropdownMenuItem>
