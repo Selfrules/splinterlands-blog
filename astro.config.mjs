@@ -7,7 +7,8 @@ import addClasses from 'rehype-add-classes'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.selfrules.org',
+  site: 'https://selfrules.github.io/',
+  base: '/splinterlands-blog',
   integrations: [
     sitemap(),
     react(),
