@@ -8,7 +8,7 @@ const baseAssetUrl = isProd
 <section class="relative mb-6 h-80 flex justify-center items-center">
   <div class="absolute w-full h-full overflow-hidden">
     <video
-      class="absolute inset-0 min-w-full min-h-full object-cover opacity-30"
+      class="absolute inset-0 min-w-full min-h-full object-cover opacity-30 -top-48"
       poster="/masthead-poster.jpg"
       autoplay="autoplay"
       muted="muted"
@@ -19,15 +19,15 @@ const baseAssetUrl = isProd
         type="video/webm; codecs=vp9"
       />
       <source
-        src={baseAssetUrl + '/masthead.m4v'}
+        src={baseAssetUrl + '/masthead.mp4'}
         type="video/mp4; codecs=hvc1"
       />
     </video>
   </div>
   <div class="z-10 text-center px-8 drop-shadow-lg shadow-black">
-    <div class="uppercase text-sm mb-4">Welcome to</div>
+    <div class="uppercase text-sm mb-4">Splinterlands</div>
     <div class="text-4xl font-mplus font-medium">
-      Di cosa parliamo <span class="text-orange-500">oggi</span> ?
+       <span class="text-orange-500"> Guida per iniziare </span>
     </div>
   </div>
 </section>

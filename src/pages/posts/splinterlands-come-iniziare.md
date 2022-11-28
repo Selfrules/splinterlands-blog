@@ -1,12 +1,12 @@
 ---
-description: Splinterlands è un gioco di strategia Play to Earn con carte collezionabili basato sulla blockchain.
+description: Splinterlands è un gioco di strategia P2E (Gioca per Guadagnare) con carte collezionabili basato sulla blockchain
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Splinterlands NFT Card Game
+title: Capitolo 1 - Parti da qui
 createdAt: 1663138523826
 updatedAt: 1663138544071
 tags:
-  - splinterlands
+  - Splinterlands
 heroImage: \public\splinterlands\hero.jpg
 slug: splinterlands
 ---
