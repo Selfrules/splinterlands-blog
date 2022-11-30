@@ -54,3 +54,13 @@ const { title, description, image = '/cover.jpg' } = Astro.props
     document.documentElement.classList.add('dark')
   }
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2SZPVP1WL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q2SZPVP1WL');
+</script>
