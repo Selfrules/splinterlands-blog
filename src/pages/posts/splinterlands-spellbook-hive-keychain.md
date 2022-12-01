@@ -1,6 +1,6 @@
 ---
 description: Creato un nuovo account, non ti resta che creare e connettere il tuo wallet sulla hive chain
-public: true
+public: false
 layout: ../../layouts/BlogPost.astro
 title: Capitolo 2 - Hive Keychain
 createdAt: 
