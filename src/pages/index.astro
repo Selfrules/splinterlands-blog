@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro'
 import { SITE_TITLE, SITE_DESCRIPTION, HOMEPAGE_URL } from '../config'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
+import Hr from '../components/Hr.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
 import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
@@ -71,7 +72,8 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             }
           </ul>
         </section>
-        <CreatedWithSection />
+        <Hr />
+        <!-- <CreatedWithSection /> -->
       </Content>
     </main>
     <Footer />
