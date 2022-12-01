@@ -1,11 +1,11 @@
 ---
 public: true
-title: Capitolo 1 - Parti da qui
+title: Capitolo 1 - Come Iniziare
 description: Splinterlands è un gioco di strategia Play to Earn con carte collezionabili basato sulla blockchain. Inizia da qui!
 tags:
   - splinterlands
 slug: splinterlands
-heroImage: /posts/capitolo1_creare_account.jpg
+heroImage: /posts/capitolo_1_come_iniziare.jpg
 createdAt: 
 updatedAt: 
 layout: ../../layouts/BlogPost.astro
