@@ -2,5 +2,5 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Splinterlands Blog - Una guida per chi vuole inziare a giocare';
-export const SITE_DESCRIPTION = 'Splinterlands è un gioco di carte collezionabili online che ti consente di guadagnare criptovalute giocando.';
+export const SITE_DESCRIPTION = 'Splinterlands Blog è una guida pratica che ti permetterà di iniziare a giocare e guadagnare.';
 export const HOMEPAGE_URL = 'https://splinterlandsblog.it'

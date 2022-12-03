@@ -9,7 +9,9 @@ import Hr from '../components/Hr.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
 import Masthead from '../components/Masthead.astro'
 import { Image } from '@astrojs/image/components'
+import Card from '../components/Card'
 import CreatedWithSection from '../components/CreatedWithSection.astro'
+import LinkButton from '../components/LinkButton.astro'
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
     new Date(b.frontmatter.createdAt).valueOf() -
@@ -20,7 +22,6 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
 <!DOCTYPE html>
 <html lang="en">
   <head>
-</script>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
   </head>
   <Body>
@@ -29,12 +30,13 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       <Masthead />
       <Content>
         <section>
-          <p class="mb-8 indent-4">
+          <p class="mb-8 py-2">
+            Con centinaia di carte uniche, Splinterlands è un gioco di carte collezionabili dal design brillante e dal ritmo incalzante che permette ai giocatori di guadagnare giocando. Piuttosto che un'azione a turni in cui ogni mossa è controllata attentamente e lentamente, la meccanica principale di Splinterlands è uno stile di drafting. Una volta trovato un avversario, ogni giocatore assembla una squadra composta da un massimo di 6 carte della propria collezione di Splinterlands. Poi, in base a un insieme unico di regole che rendono ogni partita diversa, la battaglia si svolge automaticamente in un formato rapido e ricco di azione che permette ai giocatori di imparare dalla vittoria e dalla sconfitta.
             <!-- <a
               class="inline-flex items-center gap-1 indent-1 text-orange-500"
               href={HOMEPAGE_URL}
               >lorem ipsum? <IoArrowForward className="inline" />
-            </a> -->
+            </a> --> 
           </p>
         </section>
         <section>
