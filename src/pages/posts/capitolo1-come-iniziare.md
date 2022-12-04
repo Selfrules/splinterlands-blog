@@ -27,7 +27,6 @@ layout: ../../layouts/BlogPost.astro
 * Divertiti giocando il tutorial
   ![Step 5 screenshot](/public/posts/tutorial.png)
 
-*
 ---
 
 Per continuare l'avventura prosegui con il [Capitolo 2 - SpellBook e Hive Keychain](#)
