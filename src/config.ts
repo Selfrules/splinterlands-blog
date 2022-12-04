@@ -5,14 +5,13 @@
 // export const SITE_DESCRIPTION = 'Splinterlands Blog è una guida pratica che ti permetterà di iniziare a giocare e guadagnare.';
 // export const HOMEPAGE_URL = 'https://splinterlandsblog.it'
 
-
 import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://splinterlandsblog.it",
   author: "Selfrules",
   desc: "Splinterlands Blog è una guida pratica che ti permetterà di iniziare a giocare e guadagnare.",
-  title: "Splinterlands Blog - Una guida per chi vuole inziare a giocare",
+  title: "Splinterlands Blog",
   ogImage: "default-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
