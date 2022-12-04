@@ -15,17 +15,17 @@ Sono un geek, un sognatore patologicamente ottimista con una storia da raccontar
 
 ## Perchè Splinterlands?
 
-Nel novembre 2021 mi sono appassionato a un nuovo gioco di carte chiamato Splinterlands. Non solo ero affascinato dalla tecnologia alla base di questo gioco/prodotto/progetto, ma anche dall'evoluzione aziendale e commerciale che è stata messa in atto. 
+Nel novembre 2021 mi sono appassionato a un nuovo gioco di carte chiamato Splinterlands. Non solo ero affascinato dalla tecnologia alla base di questo gioco/prodotto/progetto, ma anche dall'evoluzione aziendale e commerciale che è stata messa in atto.
 
-Sebbene il mercato delle criptovalute sia molto volatile, continuo a credere e a sostenere la visione e l'evoluzione aziendale in questo settore. 
+Sebbene il mercato delle criptovalute sia molto volatile, continuo a credere e sostenere la visione e l'evoluzione aziendale in questo settore.
 
 Appassionandomi a un gioco di carte sono riuscito a costruirmi un piccolo reddito extra. Bello, vero?
 
-Ho notato che in tutta la community non c'è una guida in Italiano che ti spieghi passo passo come iniziare, quindi perchè non fornire a possibili nuovi giocatori una guida pratica :) 
+Ho notato che in tutta la community non c'è una guida in Italiano che ti spieghi passo passo come iniziare, quindi perchè non fornire a possibili nuovi giocatori una guida pratica 😄
 
 ## Background
 
-Attualmente lavoro come *Product Owner* per una azienda internazionale con base ad Austin (TX)
+Attualmente lavoro come _Product Owner_ per una azienda internazionale con base ad Austin (TX)
 
 - Web Designer & Developer
 - SEO-friendly
@@ -34,4 +34,4 @@ Attualmente lavoro come *Product Owner* per una azienda internazionale con base 
 - Marketing-inspired
 - User Value come first
 
-
+Se vuoi metterti in contatto o lasciare un feedback, contattami via [email](mailto:mattia@selfrules.org)

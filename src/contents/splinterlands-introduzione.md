@@ -1,13 +1,14 @@
 ---
 author: Selfrules
-datetime: 2022-09-24T15:20:00Z
+datetime: 2022-12-01T1:20:00Z
 title: Introduzione al gioco
 slug: splinterlands-introduzione
 featured: true
 draft: false
 tags:
-  - introduzione
-ogImage: "/posts/capitolo_1_come_iniziare.jpg"
+  - che cos'è
+  - splinterlands
+ogImage: ""
 description: Splinterlands è un gioco di strategia Play to Earn con carte collezionabili basato sulla blockchain.
 ---
 

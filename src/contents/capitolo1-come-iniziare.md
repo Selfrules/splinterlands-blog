@@ -1,13 +1,14 @@
 ---
 author: Selfrules
-datetime: 2022-09-23T15:22:00Z
+datetime: 2022-12-01T15:20:00Z
 title: Capitolo 1 - Come Iniziare
 slug: capitolo1-come-iniziare
 featured: true
 draft: false
 tags:
   - guida
-ogImage: "/posts/capitolo_1_come_iniziare.jpg"
+  - account
+ogImage: https://res.cloudinary.com/dc246rkip/image/upload/v1670165892/splinterlands-blog/capitolo_1_come_iniziare_p3y5mv.jpg
 description: Splinterlands è un gioco di strategia Play to Earn con carte collezionabili basato sulla blockchain. Inizia da qui!
 ---
 
@@ -17,7 +18,7 @@ description: Splinterlands è un gioco di strategia Play to Earn con carte colle
   Usando il mio referral e riceverai in _omaggio_ un set completo di carte comuni dell'edizione _Caos Legion_ per iniziare la tua avventura!
 
 - Clicca sul pulsante di _Log In_
-  ![Step 2 screenshot](/public/posts/accedi.png)
+  ![Log In](https://res.cloudinary.com/dc246rkip/image/upload/v1670165892/splinterlands-blog/accedi_xvxozf.png)
 
 - Seleziona _Registrati_
 
@@ -25,7 +26,7 @@ description: Splinterlands è un gioco di strategia Play to Earn con carte colle
   Ricorda di inserire _SELFRULES_ nel campo Referral per ricevere il tuo omaggio
 
 - Divertiti giocando il tutorial
-  ![Step 5 screenshot](/public/posts/tutorial.png)
+  ![Tutorial](https://res.cloudinary.com/dc246rkip/image/upload/v1670165893/splinterlands-blog/tutorial_w5s6y2.png)
 
 ---
 
