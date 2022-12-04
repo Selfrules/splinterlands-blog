@@ -35,13 +35,13 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "#",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "#",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
@@ -105,7 +105,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Discord",
-    href: "discordapp.com/users/selfrules#0605",
+    href: "https://discordapp.com/users/selfrules#0605",
     linkTitle: `${SITE.title} on Discord`,
     active: true,
   },
