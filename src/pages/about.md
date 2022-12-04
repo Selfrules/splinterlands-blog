@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Chi sono"
 ---
 
-La curiosità, la professionalità e la voglia di progredire sono aspetti fondamentali per me. In particolare, avere l'opportunità di partecipare a tutto questo processo ha fatto sì che la mia carriera prendesse una nuova piega, in quanto sono affascinata da tutto ciò che è legato alla tecnologia e a ciò che essa ci permette di fare.
+La curiosità, la professionalità e la voglia di progredire sono aspetti fondamentali per me. In particolare, avere l'opportunità di partecipare a tutto questo processo ha fatto sì che la mia carriera prendesse una nuova piega, in quanto sono affascinato da tutto ciò che è legato alla tecnologia e a ciò che essa ci permette di fare.
 
 Esperto dell'area Web & Mobile, con uno sguardo al futuro e all'innovazione, forte delle mie competenze Agile / Scrum e dell'ambizione di evolvere come figura altamente specializzata nella gestione di progetti complessi
 

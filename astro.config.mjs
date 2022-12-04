@@ -4,7 +4,7 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
-import partytown from '@astrojs/partytown'
+import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,9 +19,9 @@ export default defineConfig({
     sitemap(),
     partytown({
       config: {
-        forward: ['dataLayer.push']
-      }
-    })
+        forward: ["dataLayer.push"],
+      },
+    }),
   ],
   markdown: {
     remarkPlugins: [
@@ -29,7 +29,7 @@ export default defineConfig({
       [
         remarkCollapse,
         {
-          test: "Tabella dei contenuti",
+          test: "Table of Contents",
         },
       ],
     ],

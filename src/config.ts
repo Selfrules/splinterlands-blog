@@ -12,7 +12,8 @@ export const SITE = {
   author: "Selfrules",
   desc: "Splinterlands Blog è una guida pratica che ti permetterà di iniziare a giocare e guadagnare.",
   title: "Splinterlands Blog",
-  ogImage: "default-og.png",
+  ogImage:
+    "https://res.cloudinary.com/dc246rkip/image/upload/v1670165892/splinterlands-blog/capitolo_1_come_iniziare_p3y5mv.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
