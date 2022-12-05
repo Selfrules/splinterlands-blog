@@ -1,6 +1,6 @@
 ---
 author: Selfrules
-datetime: 2022-12-01T15:20:00Z
+datetime: 2022-12-02T15:20:00Z
 title: Capitolo 1 - Come Iniziare
 slug: capitolo1-come-iniziare
 featured: true
@@ -28,8 +28,12 @@ description: Splinterlands è un gioco di strategia Play to Earn con carte colle
 - Crea il tuo nuovo account inserendo la tua email e
   ricorda di inserire **SELFRULES** nel campo Referral per ricevere il tuo omaggio
 
+### Gioca il tutorial
+
 - Divertiti giocando il tutorial
   ![Tutorial](https://res.cloudinary.com/dc246rkip/image/upload/v1670165893/splinterlands-blog/tutorial_w5s6y2.png)
+
+## Spellbook
 
 - Per iniziare a guadagnare le tue prime rewards è ora di comprare lo **Spellbook**
 
@@ -38,9 +42,13 @@ description: Splinterlands è un gioco di strategia Play to Earn con carte colle
 
 - Una volta completato l'acquisto potrai cliccare sull'icona delle carte nel menu in alto, qui potrai vedere la lista di tutte le carte in tuo possesso; Per ora avrai la possibilità di utilizzare solo le carte base con il logo _"S"_ = _Starter_
 
-  - Non temere, comprando lo spellbook ti verranno accreditati automaticamente 3000 crediti pari che equivalgono a 3$, con questi potrai iniziare a comprare o affittare le tue prime carte; ne parleremo successivamente. ![lista-carte](https://res.cloudinary.com/dc246rkip/image/upload/v1670173061/splinterlands-blog/chrome_uHMWc2fOAV_ycdxlm.jpg)
+  - Non temere, comprando lo spellbook ti verranno accreditati automaticamente 3000 crediti che equivalgono a 3$, con questi potrai iniziare a comprare o affittare le tue prime carte; ne parleremo successivamente. ![lista-carte](https://res.cloudinary.com/dc246rkip/image/upload/v1670173061/splinterlands-blog/chrome_uHMWc2fOAV_ycdxlm.jpg)
 
-- La configurazione inziale non è ancora terminata...
+- La configurazione inziale però non è ancora terminata...
+
+## Hive Keychain
+
+-
 
 ---
 
