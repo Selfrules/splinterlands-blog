@@ -42,4 +42,4 @@ Splinterlands è un _gioco di strategia_ con uno dei più grandi e fedeli seguac
 
 ---
 
-Ti ho convinto? allora iniziamo con il **[Capitolo 1 - Come iniziare](capitolo1-come-iniziare)**
+Ti ho convinto? allora iniziamo con il **[Capitolo 1 - Come iniziare](./capitolo1-come-iniziare)**
