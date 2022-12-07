@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "format:check": "prettier --check .",
+    "format:astro": "yarn prettier -w src/components/*.astro --plugin-search-dir=.",
     "format": "prettier --write .",
     "cz": "cz",
     "prepare": "husky install"
