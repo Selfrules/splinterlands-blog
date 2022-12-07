@@ -10,7 +10,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://splinterlandsblog.it",
   author: "Selfrules",
-  desc: "Splinterlands Blog è una guida pratica che ti permetterà di iniziare a giocare e guadagnare.",
+  desc: "Un blog su Splinterlands, il gioco di carte collezionabili basato su blockchain. Immergiti nel mondo di Splinterlands e scopri tutto ciò che c'è da sapere sui mostri, le regole del gioco e come diventare un campione. Con consigli e trucchi per ottenere il massimo dal tuo deck, questo blog è la risorsa ideale per tutti coloro che vogliono iniziare su Splinterlands.",
   title: "Splinterlands Blog",
   ogImage:
     "https://res.cloudinary.com/dc246rkip/image/upload/v1670165892/splinterlands-blog/capitolo_1_come_iniziare_p3y5mv.jpg",
